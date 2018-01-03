@@ -14,5 +14,5 @@ Document is a sample class used in the setFields test.
 
 PrivacyObject is a simple class representing privacy settings.  It is contained in the Document class.
 
-The project requires Java 8, has no external dependencies and can be executed at the command line from the base directory by running: mvn exec:java
+The project requires Java 8, has no external dependencies and can be executed at the command line from the base directory using maven 3: mvn exec:java
 
