@@ -86,9 +86,6 @@ public class Util {
      * A grammar utility for outputting correct grammar telling which place
      * a number represents.
      * e.g., 1st place, 2nd place, 3rd place, 4th place, etc...
-     *
-     * @param position
-     * @return
      */
     public static String getPlace(int position){
         StringBuilder builder = new StringBuilder();
